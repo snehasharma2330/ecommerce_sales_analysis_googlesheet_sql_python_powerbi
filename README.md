@@ -101,7 +101,7 @@ E-Commerce Sales Analysis Report
 •	Sales by Region
 
 ### Interactive Filters
-###•	Region 
+•	Region 
 •	Month 
 •	Category
 ---
