@@ -6,10 +6,10 @@ E-Commerce Sales Analysis Report
 ---
  ## OBJECTIVES
 ### •	Clean and prepare raw e-commerce sales data.
-•	Analyse sales and profit performance across different regions and product categories.
-•	Identify top-performing products and customers data.
-•	Evaluate payment methods and discount patterns.
-•	Build an interactive dashboard to support business decision-making.
+### •	Analyse sales and profit performance across different regions and product categories.
+### •	Identify top-performing products and customers data.
+### •	Evaluate payment methods and discount patterns.
+### •	Build an interactive dashboard to support business decision-making.
 ---
 ## TOOLS AND TECHNOLOGIES
 •	Google Sheets – Data Cleaning
