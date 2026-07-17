@@ -5,7 +5,7 @@ E-Commerce Sales Analysis Report
 ### This project analyzes an E-Commerce Sales dataset to uncover valuable business insights related to sales performance, profitability, customer purchasing behaviour, product performance and regional trends. The project follows a complete analysis workflow including data cleaning, SQL analysis, Python exploratory data analysis (EDA) and an interactive dashboard with KPIs.
 ---
  ## OBJECTIVES
-•	Clean and prepare raw e-commerce sales data.
+### •	Clean and prepare raw e-commerce sales data.
 •	Analyse sales and profit performance across different regions and product categories.
 •	Identify top-performing products and customers data.
 •	Evaluate payment methods and discount patterns.
