@@ -45,18 +45,18 @@ E-Commerce Sales Analysis Report
 ---
 ## SQL (BUSINESS ANALYSIS)
 ### Business questions answered:
-•	Which region generated the highest revenue?
-•	Which city has the highest average order value?
-•	Top 10 products by profit
-•	Top 5 subcategories by revenue
-•	Payment method generating the highest revenue
-•	Products with above average discounts 
-•	Monthly sales trend
-•	Average profit margin by category
-•	Products sold above average quantity
-•	Product ranking by profit
-•	Running total of monthly sales (Cumulative sales)
-•	Sales contribution (%) by category
+### •	Which region generated the highest revenue?
+### •	Which city has the highest average order value?
+### •	Top 10 products by profit
+### •	Top 5 subcategories by revenue
+### •	Payment method generating the highest revenue
+### •	Products with above average discounts 
+### •	Monthly sales trend
+### •	Average profit margin by category
+### •	Products sold above average quantity
+### •	Product ranking by profit
+### •	Running total of monthly sales (Cumulative sales)
+### •	Sales contribution (%) by category
 ---
 ### SQL CONCEPTS USED
 •	GROUP BY()
