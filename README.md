@@ -12,10 +12,10 @@ E-Commerce Sales Analysis Report
 ### •	Build an interactive dashboard to support business decision-making.
 ---
 ## TOOLS AND TECHNOLOGIES
-•	Google Sheets – Data Cleaning
-•	SQL (SQL Server) – Business Analysis
-•	Python (Pandas and matplotlib) – EDA
-•	PowerBI- Interactive Dashboard
+### •	Google Sheets – Data Cleaning
+### •	SQL (SQL Server) – Business Analysis
+### •	Python (Pandas and matplotlib) – EDA
+### •	PowerBI- Interactive Dashboard
 ---
 
 
@@ -33,17 +33,15 @@ E-Commerce Sales Analysis Report
 ---
 
 
-
-
 ## DATA CLEANING (GOOGLE SHEETS)
 ### The following cleaning steps were performed:
-•	Removed duplicate records
-•	Checked and handled missing values using conditional formatting
-•	Corrected invalid discounts (50%)
-•	Standardized text formatting
-•	Formatted date and currency columns
-•	Verified Sales calculations
-•	Verified Profit values
+### •	Removed duplicate records
+### •	Checked and handled missing values using conditional formatting
+### •	Corrected invalid discounts (50%)
+### •	Standardized text formatting
+### •	Formatted date and currency columns
+### •	Verified Sales calculations
+### •	Verified Profit values
 ---
 ## SQL (BUSINESS ANALYSIS)
 ### Business questions answered:
