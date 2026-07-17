@@ -23,8 +23,12 @@ E-Commerce Sales Analysis Report
 
 
 ## DATASET INFORMATION
+<img width="1082" height="401" alt="image" src="https://github.com/user-attachments/assets/1b89d02c-17a1-4701-8468-cfbb5c26feca" />
+
 
 ## DATA CLEANING REPORT
+<img width="1067" height="545" alt="image" src="https://github.com/user-attachments/assets/c553a81e-7112-4247-9fa4-01afa9e6c9b9" />
+
 
 ---
 
