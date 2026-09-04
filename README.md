@@ -107,23 +107,23 @@ E-Commerce Sales Analysis Report
 ---
 
 ## Key Insights
-•	Total sales reached ₹534M, generating ₹80M in total profit, resulting in an overall profit margin of 14.94%. 
-•	North was the highest-performing region, contributing ₹144M (26.9%) of total sales, while South contributed the lowest at ₹123M (23.09%). 
-•	The top two regions, North and East, generated ₹280M, accounting for approximately 52.35% of total sales, showing that more than half of revenue came from these regions. 
-•	Payment methods were relatively evenly distributed. Net Banking had the highest share at 20.89% (₹111M), while UPI had the lowest at 19.10% (₹102M) — only a 1.79 percentage-point difference. 
-•	The business recorded approximately 5K orders, with an average discount of 10.05%, while maintaining a 14.94% profit margin. 
-•	Sofa and Lamp were the highest-profit sub-categories, each generating more than ₹2M in profit, indicating their strong contribution to profitability. 
-•	Monthly sales showed noticeable fluctuations, with the highest monthly sales at approximately ₹51M and the lowest around ₹40M, representing a difference of roughly ₹11M (27.5%)
+### •	Total sales reached ₹534M, generating ₹80M in total profit, resulting in an overall profit margin of 14.94%. 
+### •	North was the highest-performing region, contributing ₹144M (26.9%) of total sales, while South contributed the lowest at ₹123M (23.09%). 
+### •	The top two regions, North and East, generated ₹280M, accounting for approximately 52.35% of total sales, showing that more than half of revenue came from these regions. 
+### •	Payment methods were relatively evenly distributed. Net Banking had the highest share at 20.89% (₹111M), while UPI had the lowest at 19.10% (₹102M) — only a 1.79 percentage-point difference. 
+### •	The business recorded approximately 5K orders, with an average discount of 10.05%, while maintaining a 14.94% profit margin. 
+### •	Sofa and Lamp were the highest-profit sub-categories, each generating more than ₹2M in profit, indicating their strong contribution to profitability. 
+### •	Monthly sales showed noticeable fluctuations, with the highest monthly sales at approximately ₹51M and the lowest around ₹40M, representing a difference of roughly ₹11M (27.5%)
 
 ---
 
 ## BUSINESS RECOMMENDATION
-•	Focus on high-margin products and review low-margin products to improve overall profitability.
-•	Prioritize marketing, inventory and promotional campaigns in North and East while identifying opportunities to improve weaker regions.
-•	Continue supporting popular digital payment methods and use targeted offers to encourage repeat purchases through preferred payment channels.
-•	Review discount levels by product and category to ensure discounts increase sales without unnecessarily reducing profit margins.
-•	Maintain sufficient inventory and promote these high-profit sub-categories to maximize their contribution to overall profit.
-•	Investigate the causes of monthly fluctuations and plan inventory and marketing campaigns around high-demand periods.
+### •	Focus on high-margin products and review low-margin products to improve overall profitability.
+### •	Prioritize marketing, inventory and promotional campaigns in North and East while identifying opportunities to improve weaker regions.
+### •	Continue supporting popular digital payment methods and use targeted offers to encourage repeat purchases through preferred payment channels.
+### •	Review discount levels by product and category to ensure discounts increase sales without unnecessarily reducing profit margins.
+### •	Maintain sufficient inventory and promote these high-profit sub-categories to maximize their contribution to overall profit.
+### •	Investigate the causes of monthly fluctuations and plan inventory and marketing campaigns around high-demand periods.
 
 
 ## CONCLUSION
